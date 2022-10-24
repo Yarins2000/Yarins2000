@@ -30,7 +30,7 @@ Served in the IDF for almost 3 years and then continued to delve into programmin
 ### Contact me
 Gmail: <a href="yarinsabag2@gmail.com">yarinsabag2@gmail.com</a>
 <br />
-LinkedIn: <a href="www.linkedin.com/in/yarin-sabag-465934254">LinkedIn account</a>
+<!-- LinkedIn: <a href="www.linkedin.com/in/yarin-sabag-465934254">LinkedIn account</a> -->
 
 <!--
 **Yarins2000/Yarins2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
