@@ -1,8 +1,8 @@
 # Yarin Sabag 👨🏽‍💻
 ### Hi There👋
-I'm Yarin, 22 years old, a student of software development at Sela college, on the way to be a full stack developer.
-Studying the .NET platform as backend, specialize in C#, .NET, OOP, UWP & WPF, ASP.NET MVC and MVVM as an architectural pattern.
-Also specialize in HTML, CSS, JS as frontend.
+I'm Yarin, 22 years old, a Full Stack Developer.
+Studying the .NET platform as backend, specialize in C#, .NET, OOP, WPF (with MVVM), ASP.NET MVC, Web API.
+Also specialize in HTML, CSS, JS and Angular as frontend.
 Learning MSSQL and Azure fundamentals courses (az900, az204).
 
 ---
